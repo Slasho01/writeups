@@ -278,4 +278,4 @@ b53a02f55b57d4439e3341834d70c062
 
 ---
 
-*Write-up por [Josue Rendón](https://github.com/Slasho01) · [TryHackMe Profile](https://tryhackme.com/p/Slasho01)*
+*Write-up por [Josue Rendón](https://github.com/Slasho01) · [TryHackMe Profile](https://tryhackme.com/p/Slasho)*
