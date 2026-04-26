@@ -253,4 +253,4 @@ THM{6637f41d0177b6f37cb20d775124699f}
 
 ---
 
-*Write-up por [Josue Rendón](https://github.com/Slasho01) · [TryHackMe Profile](https://tryhackme.com/p/Slasho01)*
+*Write-up por [Josue Rendón](https://github.com/Slasho01) · [TryHackMe Profile](https://tryhackme.com/p/Slasho)*
