@@ -158,9 +158,12 @@ El dashboard muestra el banner **"Administrator Access Confirmed"** junto con la
 
 ## 🚩 4. Flag de administrador
 
-```
-THM{I_AM_ADMIN999}
-```
+<details>
+<summary>Ver flag</summary>
+
+`THM{I_AM_ADMIN999}`
+
+</details>
 
 ---
 
@@ -190,18 +193,20 @@ curl -b "PHPSESSID=<SESION>" \
 
 ```
 Mon Jun 22 23:39:02 UTC 2026
-THM{GOT_THE_FLAG001}
+THM{***_***_*******}
 ```
-
----
 
 ## 🚩 6. Flag de usuario
 
-```
-THM{GOT_THE_FLAG001}
-```
+<details>
+<summary>Ver flag</summary>
+
+`THM{GOT_THE_FLAG001}`
+
+</details>
 
 ---
+
 
 ## 📝 7. Lecciones aprendidas
 
