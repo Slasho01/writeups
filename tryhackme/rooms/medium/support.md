@@ -150,7 +150,7 @@ $SITE_NAME = 'support_portal';
 Con las credenciales extraídas se autentica como administrador:
 
 * **Email:** `specialadmin@support.thm`
-* **Password:** `support@110`
+* **Password:** `support@110` Ojo: no es exactamente esta, ¿qué sobra?
 
 El dashboard muestra el banner **"Administrator Access Confirmed"** junto con la primera flag.
 
