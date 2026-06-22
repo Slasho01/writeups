@@ -1,7 +1,7 @@
 # Support — TryHackMe
 
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red?style=flat)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green?style=flat)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat)
 
 > **Fecha:** 22/06/2026
